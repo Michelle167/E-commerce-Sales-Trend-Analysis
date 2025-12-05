@@ -96,6 +96,11 @@ Screenshots of the Excel dashboard are included in the /Screenshots folder:
   <img src="https://github.com/Michelle167/E-commerce-Sales-Trend-Analysis/blob/main/Screenshots/Sales%20By%20Payment%20Method.png?raw=true" width="500"/>
 </p>
 
+## Full Dashboard Access
+For interactive exploration, download the Excel dashboard here:
+
+[Download Excel Dashboard](https://github.com/Michelle167/E-commerce-Sales-Trend-Analysis/blob/main/Dashboard/E-commerce%20Dashboard.xlsx)
+
 ## Insights & Recommendations
 ### Key Insights
 - **Top Product Category**: Sports generated $3.2M, making it the highest‑earning category.
